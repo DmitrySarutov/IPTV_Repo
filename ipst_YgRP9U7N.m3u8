@@ -1,0 +1,459 @@
+#EXTM3U catchup="append" catchup-source="?utc=${start}" url-tvg="https://static.ipstr.im/epg/epg.xml.gz,https://iptvx.one/EPG"
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="pervy" tvg-logo="https://static.ipstr.im/picons/ru/pervyj-hd.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Первый HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/pervyHD/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="pervy" tvg-logo="https://static.ipstr.im/picons/ru/pervyj.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Первый канaл
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/pervy/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="rossia1" tvg-logo="https://static.ipstr.im/picons/ru/rossia-hd.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Россия 1 HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rossia1HD/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="rossia1" tvg-logo="https://static.ipstr.im/picons/ru/rossia1.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Росcия 1
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rossia1/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="ntv" tvg-logo="https://static.ipstr.im/picons/ru/ntvhd.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",НТВ HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ntvHD/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="ntv" tvg-logo="https://static.ipstr.im/picons/ru/ntv-white.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",НTВ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ntv/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="tnt" tvg-logo="https://static.ipstr.im/picons/ru/tnthd.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",ТНТ HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tntHD/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="tnt" tvg-logo="https://static.ipstr.im/picons/ru/tnt.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",ТНТ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tnt/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="sts" tvg-logo="https://static.ipstr.im/picons/ru/sts.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",СТС
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/sts/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="rentv" tvg-logo="https://static.ipstr.im/picons/upl/rentvHD.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Рен ТВ HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rentvHD/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="rentv" tvg-logo="https://static.ipstr.im/picons/ru/rentv.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Рeн ТВ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rentv/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="tvcentr" tvg-logo="https://static.ipstr.im/picons/ru/tvcentr.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",ТВЦ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tvcentr/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="tv3-ru" tvg-logo="https://static.ipstr.im/picons/ru/tv3.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",ТВ-3 HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tv3-ru/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="domashny" tvg-logo="https://static.ipstr.im/picons/ru/domashny.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Домашний HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/domashny/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="domashny" tvg-logo="https://static.ipstr.im/picons/upl/domsd.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Домашний
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/domsd/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="5kanal-ru" tvg-logo="https://static.ipstr.im/picons/ru/5kanal-ru.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Пятый канал
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/5kanal-ru/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="zvezda" tvg-logo="https://static.ipstr.im/picons/ru/zvezda.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Звeзда
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/zvezda/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="mir" tvg-logo="https://static.ipstr.im/picons/ru/mir.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Мир
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/mir/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="otr" tvg-logo="https://static.ipstr.im/picons/ru/otr_ru.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",ОТР
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/otr/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="kultura" tvg-logo="https://static.ipstr.im/picons/ru/rosskult.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Роcсия-Культура
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rossia-k/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="360-podmoskovie" tvg-logo="https://static.ipstr.im/picons/ru/360-podmoskovie.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Телеканал 360°
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/360-podmoskovie/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="spas" tvg-logo="https://static.ipstr.im/picons/upl/spas.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Спас
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/spas/video.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-id="soyuz" tvg-logo="https://static.ipstr.im/picons/upl/souz.png" group-title="Базовые Россия" group-logo="https://static.ipstr.im/picons/groups/5.png",Союз
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/souz/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="pervy-pl2" tvg-logo="https://static.ipstr.im/picons/ru/pervyj_plus2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",Первый канал (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/pervy-pl2/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="rossia1-pl2" tvg-logo="https://static.ipstr.im/picons/ru/russia1plus2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",Россия 1 (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rossia1-pl2/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="tnt-pl2" tvg-logo="https://static.ipstr.im/picons/ru/tntplus2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",ТНТ (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tnt-pl2/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="sts-pl2" tvg-logo="https://static.ipstr.im/picons/ru/sts-pl2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",СТС (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/sts-pl2/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="ntv-pl2" tvg-logo="https://static.ipstr.im/picons/ru/ntvplus2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",НТB (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ntv-pl2/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="rentv-pl2" tvg-logo="https://static.ipstr.im/picons/ru/rentvplus2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",Рен ТB (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rentv-pl2/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="tvcentr-pl2" tvg-logo="https://static.ipstr.im/picons/ru/tvc+2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",ТВЦ (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tvcentr-pl2/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="tv3-ru-pl2" tvg-logo="https://static.ipstr.im/picons/ru/tv3+2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",ТВ-3 (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tv3-ru-pl2/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="domashny-pl2" tvg-logo="https://static.ipstr.im/picons/ru/domashniy+2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",Домашний (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/domashny-pl2/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="5kanal-ru-pl2" tvg-logo="https://static.ipstr.im/picons/ru/5+2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",Пятый канал (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/5kanal-ru-pl2/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="piatnica-pl2" tvg-logo="https://static.ipstr.im/picons/ru/piatnica+2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",Пятница (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/piatnica-pl2/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="zvezda-pl2" tvg-logo="https://static.ipstr.im/picons/upl/zvezda-pl2.png" group-title="Базовый Россия +2" group-logo="https://static.ipstr.im/picons/groups/24.png",Звездa (+2)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/zvezda-pl2/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="pervy-pl4" tvg-logo="https://static.ipstr.im/picons/ru/perviyplus4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",Первый канал (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/pervy-pl4/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="rossia1-pl4" tvg-logo="https://static.ipstr.im/picons/ru/rossiaplus4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",Россия 1 (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rossia1-pl4/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="tnt-pl4" tvg-logo="https://static.ipstr.im/picons/ru/tntplus4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",ТНТ (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tnt-pl4/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="sts-pl4" tvg-logo="https://static.ipstr.im/picons/ru/sts-pl4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",СТС (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/sts-pl4/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="ntv-pl4" tvg-logo="https://static.ipstr.im/picons/ru/ntvplus4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",НТВ (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ntv-pl4/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="rentv-pl4" tvg-logo="https://static.ipstr.im/picons/ru/rentvpplus4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",Рен ТВ (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rentv-pl4/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="tvcentr-pl4" tvg-logo="https://static.ipstr.im/picons/ru/tvc+4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",ТВЦ (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tvcentr-pl4/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="tv3-ru-pl4" tvg-logo="https://static.ipstr.im/picons/ru/tv3+4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",ТВ-3 (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tv3-ru-pl4/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="domashny-pl4" tvg-logo="https://static.ipstr.im/picons/ru/domashniy+4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",Домашний (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/domashny-pl4/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="5kanal-ru-pl4" tvg-logo="https://static.ipstr.im/picons/ru/5+4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",Пятый канал (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/5kanal-ru-pl4/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="piatnica-pl4" tvg-logo="https://static.ipstr.im/picons/ru/piatnica+4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",Пятница (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/piatnica-pl4/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="che-pl4" tvg-logo="https://static.ipstr.im/picons/upl/25/che-pl4.png" group-title="Базовый Россия +4" group-logo="https://static.ipstr.im/picons/groups/25.png",Че! (+4)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/che-pl4/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="pervy-pl6" tvg-logo="https://static.ipstr.im/picons/ru/perviyplus6.png" group-title="Базовый Россия +6" group-logo="https://static.ipstr.im/picons/groups/28.png",Пepвый канал (+6)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/pervy-pl6/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="rossia1-pl6" tvg-logo="https://static.ipstr.im/picons/ru/russiaplus6.png" group-title="Базовый Россия +6" group-logo="https://static.ipstr.im/picons/groups/28.png",Pоcсия 1 (+6)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rossia1-pl6/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="pervy-pl7" tvg-logo="https://static.ipstr.im/picons/upl/30/pervy-pl7.png" group-title="Базовый Россия +7" group-logo="https://static.ipstr.im/picons/groups/30.png",Пеpвый канал (+7)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/pervy-pl7/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="rossia1-pl7" tvg-logo="https://static.ipstr.im/picons/upl/30/rossia1-pl7.png" group-title="Базовый Россия +7" group-logo="https://static.ipstr.im/picons/groups/30.png",Pоcсия 1 (+7)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rossia1-pl7/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="ntv-pl7" tvg-logo="https://static.ipstr.im/picons/ru/ntvplus7.png" group-title="Базовый Россия +7" group-logo="https://static.ipstr.im/picons/groups/30.png",НТВ (+7)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ntv-pl7/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="tnt-pl7" tvg-logo="https://static.ipstr.im/picons/ru/tntplus7.png" group-title="Базовый Россия +7" group-logo="https://static.ipstr.im/picons/groups/30.png",ТНТ (+7)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tnt-pl7/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="sts-pl7" tvg-logo="https://static.ipstr.im/picons/ru/sts-pl7.png" group-title="Базовый Россия +7" group-logo="https://static.ipstr.im/picons/groups/30.png",СТС (+7)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/sts-love-pl7/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="rentv-pl7" tvg-logo="https://static.ipstr.im/picons/ru/rentv-pl7.png" group-title="Базовый Россия +7" group-logo="https://static.ipstr.im/picons/groups/30.png",Рен ТВ (+7)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rentv-pl7/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="pervy-pl8" tvg-logo="https://static.ipstr.im/picons/ru/perviyplus8.png" group-title="Базовый Россия +8" group-logo="https://static.ipstr.im/picons/groups/29.png",Первый канал (+8)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/pervy-pl8/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="rossia1-pl8" tvg-logo="https://static.ipstr.im/picons/ru/russiaplus8.png" group-title="Базовый Россия +8" group-logo="https://static.ipstr.im/picons/groups/29.png",Россия 1 (+8)
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rossia1-pl8/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="tnt4" tvg-logo="https://static.ipstr.im/picons/ru/tnt4.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",ТНТ4
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tnt4/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="sts-love" tvg-logo="https://static.ipstr.im/picons/ru/sts-love.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",СТС Love
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/sts-love/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="kvn-tv" tvg-logo="https://static.ipstr.im/picons/ru/kvn-tv.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",КВН ТВ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/kvn-tv/video.m3u8
+#EXTINF:-1 catchup-days="5" timeshift="5" tvg-id="piatnicahd" tvg-logo="https://static.ipstr.im/picons/upl/piatnicaHD.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",Пятница HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/piatnicaHD/video.m3u8
+#EXTINF:-1 catchup-days="5" timeshift="5" tvg-id="piatnicahd" tvg-logo="https://static.ipstr.im/picons/ru/pyatnica.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",Пятница
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/piatnica/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="super" tvg-logo="https://static.ipstr.im/picons/ru/super.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",Суббота! HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/super/video.m3u8
+#EXTINF:-1 catchup-days="5" timeshift="5" tvg-id="yu" tvg-logo="https://static.ipstr.im/picons/ru/yu.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",Ю
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/yu/video.m3u8
+#EXTINF:-1 catchup-days="5" timeshift="5" tvg-id="che" tvg-logo="https://static.ipstr.im/picons/ru/che.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",Че!
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/che/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="static-52" tvg-logo="https://static.ipstr.im/picons/upl/10/modo_fireplace.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",MÖDO Камин
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/modo_fireplace/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="fanhd" tvg-logo="https://static.ipstr.im/picons/ru/fan.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",FAN
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/fan/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="fanhd" tvg-logo="https://static.ipstr.im/picons/ru/fan.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",FAN HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/fanhd/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="world-fashion-channel" tvg-logo="https://static.ipstr.im/picons/ru/wf.png" group-title="Развлекательные" group-logo="https://static.ipstr.im/picons/groups/10.png",World fashion
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/world-fasshion-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="bobior" tvg-logo="https://static.ipstr.im/picons/ru/bober.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Бобёр
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/bobior/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="eda-hd" tvg-logo="https://static.ipstr.im/picons/ru/eda-hd.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Food Time
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/eda-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="food-network" tvg-logo="https://static.ipstr.im/picons/ru/food-network.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Food Network HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/food-networkHD/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="viasat-history" tvg-logo="https://static.ipstr.im/picons/ru/viasathistory.ru.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",viju History
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/viasat-history/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="viasat-history" tvg-logo="https://static.ipstr.im/picons/ru/viasathistory.ru.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",viju History HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/viasat-history-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="viasat-explore" tvg-logo="https://static.ipstr.im/picons/ru/viasatexplore.ru.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",viju Explore
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/viasat-explore/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="viasat-nature" tvg-logo="https://static.ipstr.im/picons/ru/viasatnature.ru.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",viju Nature
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/viasat-nature/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="viasat-nature-history-hd" tvg-logo="https://static.ipstr.im/picons/ru/viasat-nature-history-hd.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",viju+ Planet HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/viasat-nature-history-hd/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="quadro4k" tvg-logo="https://static.ipstr.im/picons/upl/quadro.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Квадро
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/quadro/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="national-geographic" tvg-logo="https://static.ipstr.im/picons/ru/natgeo.ru.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",National Geographic
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/national-geographic/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="national-geographic" tvg-logo="https://static.ipstr.im/picons/ru/national-geographic-hd.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",National Geographic HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/national-geographicHD/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="history-ru" tvg-logo="https://static.ipstr.im/picons/ru/history_hd.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",History HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/history-hd/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="h2" tvg-logo="https://static.ipstr.im/picons/upl/7/h2.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",History 2 HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/h2/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="nauka-20" tvg-logo="https://static.ipstr.im/picons/ru/nauka-20.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Наука
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/nauka-20/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="avto24" tvg-logo="https://static.ipstr.im/picons/ru/avto24.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Авто 24
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/avto24/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="drive" tvg-logo="https://static.ipstr.im/picons/ru/drive.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Драйв
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/drive/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="otkryty-mir" tvg-logo="https://static.ipstr.im/picons/ru/morskoy.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Открытый мир
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/morskoy/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="discovery-channel" tvg-logo="https://static.ipstr.im/picons/upl/discovery-channelHD.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Discovery Channel
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/discovery-channelHD/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="travel-adventure" tvg-logo="https://static.ipstr.im/picons/ru/travel-adventure.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Travel+Adventure
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/travel-adventure/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="travel-adventure" tvg-logo="https://static.ipstr.im/picons/upl/travel-adventureHD.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Travel+Adventure HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/travel-adventureHD/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="ntv-pravo" tvg-logo="https://static.ipstr.im/picons/ru/ntv-pravo.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",НТВ Право
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ntv-pravo/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="ntv-style" tvg-logo="https://static.ipstr.im/picons/ru/ntv-style.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",НТВ Стиль
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ntv-style/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="prikluchenia-hd" tvg-logo="https://static.ipstr.im/picons/ru/priklhd.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Приключения HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/prikluchenia-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="animal-planet" tvg-logo="https://static.ipstr.im/picons/upl/animal-planetHD.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Animal Planet HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/animal-planetHD/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://static.ipstr.im/picons/ru/v-mire-zhivotnyx.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",В мире животных HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/v-mire-zhivotnyx-hd/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="tlc" tvg-logo="https://static.ipstr.im/picons/upl/tlcHD.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",TLC HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tlcHD/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="rtg-tv" tvg-logo="https://static.ipstr.im/picons/ru/RTG_hd.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",RTG HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rtg-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="moya-planeta" tvg-logo="https://static.ipstr.im/picons/ru/planeta-hd.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Моя планета HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/planeta-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="moya-planeta" tvg-logo="https://static.ipstr.im/picons/ru/moya-planeta.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Моя планета
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/moya-planeta/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="oxota-i-rybalka" tvg-logo="https://static.ipstr.im/picons/ru/ohotaribalka.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Охота и рыбалка
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/oxota-i-rybalka/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="dikaya-oxota-hd" tvg-logo="https://static.ipstr.im/picons/ru/dikaya-oxota-hd.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Дикая охота HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/dikaya-oxota-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="dikaya-rybalka-hd" tvg-logo="https://static.ipstr.im/picons/ru/dikaya-rybalka-hd.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Дикая рыбалка HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/dikaya-rybalka-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://static.ipstr.im/picons/ru/ohotnikribolov.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Охотник и рыболов HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/oxotnik-i-rybolov-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="dikiy" tvg-logo="https://static.ipstr.im/picons/ru/dikiy.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Дикий
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/dikiy/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="voprosy-i-otvety" tvg-logo="https://static.ipstr.im/picons/ru/voprosy-i-otvety.png" group-title="Познавательные" group-logo="https://static.ipstr.im/picons/groups/7.png",Вопросы и ответы
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/voprotv/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="tv1000" tvg-logo="https://static.ipstr.im/picons/ru/tv1000.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",viju TV1000
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tv1000/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="tv1000-action" tvg-logo="https://static.ipstr.im/picons/ru/tv1000action.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",viju TV1000 Action
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tv1000-action/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="tv1000-russkoe-kino" tvg-logo="https://static.ipstr.im/picons/ru/tv1000ruskino.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",viju TV1000 Русское
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tv1000-russkoe-kino/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="vip-comedy" tvg-logo="https://static.ipstr.im/picons/ru/vip-comedy.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",viju+ Comedy
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/vip-comedy/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="vip-megahit" tvg-logo="https://static.ipstr.im/picons/ru/vip-megahit.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",viju+ Megahit
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/vip-megahit/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="vip-premiere" tvg-logo="https://static.ipstr.im/picons/ru/vip-premiere.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",viju+ Premiere
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/vip-premiere/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="shokiruyushchee-hd" tvg-logo="https://static.ipstr.im/picons/ru/shokiruyushchee.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Шокирующее
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/kinopokaz-hd1/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="komedijnoe-hd" tvg-logo="https://static.ipstr.im/picons/ru/komediynoe.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Комедийное HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/kinopokaz-hd2/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="fox" tvg-logo="https://static.ipstr.im/picons/ru/fox.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",FX
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/fox/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="foxlife" tvg-logo="https://static.ipstr.im/picons/ru/foxlife.ru.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",FX Life
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/foxlife/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="amedia1" tvg-logo="https://static.ipstr.im/picons/upl/amedia1.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Amedia 1
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/amedia1/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="amedia2" tvg-logo="https://static.ipstr.im/picons/upl/amedia2.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Amedia 2
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/amedia2/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="amedia-hit" tvg-logo="https://static.ipstr.im/picons/upl/amedia-hit.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Amedia Hit
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/amedia-hit/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="amedia-premium" tvg-logo="https://static.ipstr.im/picons/ru/amedia-premium.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Amedia Premium HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/amedia-premium/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="amedia-premium" tvg-logo="https://static.ipstr.im/picons/upl/amedia-premium-sd.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Amedia Premium
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/amedia-premium-sd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="domkino-premium" tvg-logo="https://static.ipstr.im/picons/ru/dom-kino-premium.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Дом Кино Премиум HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/domkino-premium/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="domkino" tvg-logo="https://static.ipstr.im/picons/ru/dom-kino.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Дом кино
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/domkino/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="evrokino" tvg-logo="https://static.ipstr.im/picons/ru/eurokino.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Еврокино HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/evrokinoHD/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="evrokino" tvg-logo="https://static.ipstr.im/picons/ru/eurokino.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Еврокино
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/evrokino/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="kino-tv" tvg-logo="https://static.ipstr.im/picons/ru/kino-tv.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Кино ТВ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/kino-tv/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="kino-tv" tvg-logo="https://static.ipstr.im/picons/upl/kino-tvhd.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Кино ТВ HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/kino-tvhd/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="lubimoe-kino" tvg-logo="https://static.ipstr.im/picons/ru/nashe-lubimoe-kino.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Любимое кино HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/nashe-lubimoe-kino/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="nash-kinoroman" tvg-logo="https://static.ipstr.im/picons/ru/nashkinoroman.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Душевное HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/nash-kinoroman/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="nashehd" tvg-logo="https://static.ipstr.im/picons/ru/nashe-krutoe.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Наше крутое HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/nash-detektiv/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="strashnoe-hd" tvg-logo="https://static.ipstr.im/picons/ru/strashnoe-hd.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Страшное HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/strashnoe-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="premialnoe-hd" tvg-logo="https://static.ipstr.im/picons/ru/kinopremiumhd.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Премиальное HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/kinopremium-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="nst" tvg-logo="https://static.ipstr.im/picons/ru/nst.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",НСТ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/nst/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="hollywood-hd" tvg-logo="https://static.ipstr.im/picons/upl/hollywood-hd.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Hollywood HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/hollywood-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="hollywood" tvg-logo="https://static.ipstr.im/picons/ru/hollywoodhd.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Hollywood
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/hollywood/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="sony-scifi" tvg-logo="https://static.ipstr.im/picons/ru/sony-scifi.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Sci-Fi
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/sony-scifi/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="sony-tv" tvg-logo="https://static.ipstr.im/picons/ru/sonyentertainment.ru.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Red
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/sony-enter/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="sony-turbo" tvg-logo="https://static.ipstr.im/picons/ru/sony-turbo.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Black
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/sony-turbo/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="russky-bestseller" tvg-logo="https://static.ipstr.im/picons/ru/rusbestseller.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Русский бестселлер
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/russky-bestseller/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="russky-detektiv" tvg-logo="https://static.ipstr.im/picons/ru/rusdetektiv.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Русский детектив
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/russky-detektiv/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="russkaya-komedia" tvg-logo="https://static.ipstr.im/picons/ru/ruskomed.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Русская комедия
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/russkaya-komedia/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="russky-illuzion" tvg-logo="https://static.ipstr.im/picons/ru/rusiluzion.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Русский иллюзион
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/russky-illuzion/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="russky-roman" tvg-logo="https://static.ipstr.im/picons/ru/russky-roman.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Русский роман
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/russky-roman/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="ostrosiuzhetnoe-hd" tvg-logo="https://static.ipstr.im/picons/ru/ostrosuzet.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Остросюжетное HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ostrosiuzhetnoe-hd/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="pobeda" tvg-logo="https://static.ipstr.im/picons/ru/pobeda.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Победа
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/pobeda/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="kinopremiera-hd" tvg-logo="https://static.ipstr.im/picons/ru/kinopremiera.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Кинопремьера HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/kinopremiera-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="ntv-serial" tvg-logo="https://static.ipstr.im/picons/ru/ntv-serial.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",НТВ Сериал
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ntv-serial/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="mir-seriala" tvg-logo="https://static.ipstr.im/picons/ru/mir-seriala.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Мир Сериала
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/mir-seriala/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="shot-tv" tvg-logo="https://static.ipstr.im/picons/ru/shottv.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Shot TV
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/shot-tv/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="arsenaltv" tvg-logo="https://static.ipstr.im/picons/ru/arsenal.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Арсенал HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/arsenal/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="plan-b" tvg-logo="https://static.ipstr.im/picons/upl/planb.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Plan B HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/planb/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="russky-ekstrim" tvg-logo="https://static.ipstr.im/picons/ru/sdrex.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Rex
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/russky-ekstrim/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="russky-ekstrim" tvg-logo="https://static.ipstr.im/picons/ru/hdrex.png" group-title="Кино" group-logo="https://static.ipstr.im/picons/groups/3.png",Rex HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/russky-ekstrim-hd/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="ultra-hd-cinema" tvg-logo="https://static.ipstr.im/picons/ru/ultrahdsinema.png" group-title="Кино 4K" group-logo="https://static.ipstr.im/picons/groups/43.png",Cinеmа UHD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ultra-hd-cinema/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="kino-ultra-hd" tvg-logo="https://static.ipstr.im/picons/upl/kino-ultra-hd.png" group-title="Кино 4K" group-logo="https://static.ipstr.im/picons/groups/43.png",Кино UHD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/kino-ultra-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-tv" tvg-logo="https://static.ipstr.im/picons/ru/match.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч ТВ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-tv/video.m3u8
+#EXTINF:-1 catchup-days="4" timeshift="4" tvg-id="match-tv" tvg-logo="https://static.ipstr.im/picons/ru/match.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-tvhd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-nash-sport" tvg-logo="https://static.ipstr.im/picons/ru/match-strana.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Страна
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-nash-sport/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-boets" tvg-logo="https://static.ipstr.im/picons/ru/match-boec.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Боец
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-boets/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-arena" tvg-logo="https://static.ipstr.im/picons/ru/match-arena.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Арена
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-arena/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-arena" tvg-logo="https://static.ipstr.im/picons/ru/match-arena.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Арена HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-arenahd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-igra" tvg-logo="https://static.ipstr.im/picons/ru/match-igra.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Игра
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-igra/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-igra" tvg-logo="https://static.ipstr.im/picons/ru/match-igra.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Игра HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-igrahd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-planeta" tvg-logo="https://static.ipstr.im/picons/ru/match-planeta.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Планета
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-planeta/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-football1" tvg-logo="https://static.ipstr.im/picons/ru/match-football-1.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Футбол 1
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-football1/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-football1" tvg-logo="https://static.ipstr.im/picons/ru/match-football-1.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Футбол 1 HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-football1hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-football2" tvg-logo="https://static.ipstr.im/picons/ru/match-football-2.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Футбол 2
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-football2/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-football2" tvg-logo="https://static.ipstr.im/picons/ru/match-football-2.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Футбол 2 HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-football2hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-football3" tvg-logo="https://static.ipstr.im/picons/ru/match-football-3.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Футбол 3
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-football3/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-football3" tvg-logo="https://static.ipstr.im/picons/ru/match-football-3.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Футбол 3 HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-football3hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-premier" tvg-logo="https://static.ipstr.im/picons/ru/match-premiere.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Премьер
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-premier/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="match-premier" tvg-logo="https://static.ipstr.im/picons/ru/match-premiere.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Матч! Премьер HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/match-premierhd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="ufc" tvg-logo="https://static.ipstr.im/picons/ru/ufctv.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",UDAR HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ufc/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="kxl" tvg-logo="https://static.ipstr.im/picons/upl/4/kxl.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",KHL
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/kxl/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="kxl-hd" tvg-logo="https://static.ipstr.im/picons/upl/kxl-hd_50.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",KHL Prime HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/kxl-hd/video.m3u8
+#EXTINF:-1 catchup-days="3" timeshift="3" tvg-id="eurosport1" tvg-logo="https://static.ipstr.im/picons/upl/eurosport1hd.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Eurosport 1
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/eurosport1hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="eurosport2" tvg-logo="https://static.ipstr.im/picons/ru/eurosport2.ru.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Eurosport 2
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/eurosport2HD/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="extreme-sports" tvg-logo="https://static.ipstr.im/picons/ru/extremesports.ru.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Extreme Sport
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/extreme-sports/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="viasat-sport" tvg-logo="https://static.ipstr.im/picons/ru/viasatsport.ru.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",viju+ Sport
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/viasat-sport/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="viasat-sport" tvg-logo="https://static.ipstr.im/picons/ru/viasatsport.ru.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",viju+ Sport HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/viasat-sporthd/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="tochka-otryva" tvg-logo="https://static.ipstr.im/picons/ru/tochka-otryva.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Точка отрыва
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tochka-otryva/video.m3u8
+#EXTINF:-1 catchup-days="4" timeshift="4" tvg-id="setanta-sports" tvg-logo="https://static.ipstr.im/picons/ru/setanta-sports.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Setanta Sports 1 HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/setanta-sports/video.m3u8
+#EXTINF:-1 catchup-days="4" timeshift="4" tvg-id="setanta-sports-plus" tvg-logo="https://static.ipstr.im/picons/upl/setanta-sports-plus.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Setanta Sports 2 HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/setanta-sports-plus/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="football-ru" tvg-logo="https://static.ipstr.im/picons/ru/futbol.png" group-title="Спорт" group-logo="https://static.ipstr.im/picons/groups/4.png",Футбол HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/football-ru/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="viva-rus" tvg-logo="https://static.ipstr.im/picons/ru/aiva.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",VIVA Russia HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/aiva_tv/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="muzyka-pervogo" tvg-logo="https://static.ipstr.im/picons/ru/muzyka-pervogo.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Музыка первого
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/muzyka-pervogo/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="europa-plus-tv" tvg-logo="https://static.ipstr.im/picons/ru/europaplustv.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Europa Plus TV
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/europa-plus-tv/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="muztv" tvg-logo="https://static.ipstr.im/picons/ru/muztv.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Муз-ТВ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/muztv/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="ru-tv" tvg-logo="https://static.ipstr.im/picons/ru/rutv.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",RU.TV
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/ru-tv/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="bridge-tv" tvg-logo="https://static.ipstr.im/picons/ru/bridge-tv.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Bridge TV
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/bridge-tv/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="bridge-tv-dance" tvg-logo="https://static.ipstr.im/picons/ru/bridge-tv-hits.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Bridge TV Hits
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/bridge-tv-dance/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="bridge_fresh" tvg-logo="https://static.ipstr.im/picons/upl/8/bridge_fresh.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Bridge TV Fresh
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/bridge_fresh/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="bridge-hd" tvg-logo="https://static.ipstr.im/picons/ru/bridgehd.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Bridge TV Deluxe
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/bridge-hd/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="bridge-tv-ruxit" tvg-logo="https://static.ipstr.im/picons/ru/bridgetvrusxit.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Bridge TV Русский Хит
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/bridge-tv-ruxit/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="bridge-tv-classic" tvg-logo="https://static.ipstr.im/picons/ru/bridgetvclassic.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Bridge TV Classic
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/bridge-tv-classic/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="tnt-music" tvg-logo="https://static.ipstr.im/picons/ru/tnt-music.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",FON Music
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tnt-music/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="zhara" tvg-logo="https://static.ipstr.im/picons/ru/zara.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Жара
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/zhara/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="static-54" tvg-logo="https://static.ipstr.im/picons/upl/8/modo_misic_ru_ua_2024.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",MÖDO Music RU-UA 2024
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/modo_misic_ru_ua_2024/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="static-47" tvg-logo="https://static.ipstr.im/picons/upl/8/modo_misic_ru_ua_2023.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",MÖDO Music RU-UA 2023
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/modo_misic_ru_ua_2023/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="static-47" tvg-logo="https://static.ipstr.im/picons/upl/8/modo_misic_ru_ua_2022.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",MÖDO Music RU-UA 2022
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/modo_misic_ru_ua_2022/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="static-47" tvg-logo="https://static.ipstr.im/picons/upl/8/modo_misic_ru_ua_2021.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",MÖDO Music RU-UA 2021
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/modo_misic_ru_ua_2021/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="static-53" tvg-logo="https://static.ipstr.im/picons/upl/8/modo_misic_2024.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",MÖDO Music 2024
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/modo_misic_2024/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="static-50" tvg-logo="https://static.ipstr.im/picons/upl/8/modo_misic_2023.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",MÖDO Music 2023
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/modo_misic_2023/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="static-49" tvg-logo="https://static.ipstr.im/picons/upl/8/modo_misic_2022.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",MÖDO Music 2022
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/modo_misic_2022/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="static-48" tvg-logo="https://static.ipstr.im/picons/upl/8/modo_misic_2021.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",MÖDO Music 2021
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/modo_misic_2021/video.m3u8
+#EXTINF:-1 catchup-days="0" timeshift="0" tvg-id="modo_misic_club" tvg-logo="https://static.ipstr.im/picons/upl/8/modo_misic_club.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",MÖDO Music Club
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/modo_misic_club/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="mezzo" tvg-logo="https://static.ipstr.im/picons/ru/mezzo-live-hd.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Mezzo Live HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/mezzoHD/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="mcm-top" tvg-logo="https://static.ipstr.im/picons/ru/mcm-top.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",MCM Top
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/mcm-top/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="shanson-tv" tvg-logo="https://static.ipstr.im/picons/ru/shanson.png" group-title="Музыка" group-logo="https://static.ipstr.im/picons/groups/8.png",Шансон ТВ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/shanson/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="karusel" tvg-logo="https://static.ipstr.im/picons/ru/karusel.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Карусель
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/karusel/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="mult" tvg-logo="https://static.ipstr.im/picons/ru/mult.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Мульт
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/mult/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="mult" tvg-logo="https://static.ipstr.im/picons/ru/mult.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Мульт HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tlum-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="multimuzyka" tvg-logo="https://static.ipstr.im/picons/ru/multimuzyka.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Мультимузыка
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/multimuzyka/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="detsky-mir" tvg-logo="https://static.ipstr.im/picons/ru/detmir.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Детский мир HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/detsky-mir/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="o_" tvg-logo="https://static.ipstr.im/picons/ru/o!.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",O!
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/o_/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="solnce" tvg-logo="https://static.ipstr.im/picons/ru/disney_channel.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Солнце ТВ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/disney/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="nick" tvg-logo="https://static.ipstr.im/picons/upl/nickelodeon-ru.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Nickelodeon
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/nickelodeon-ru/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="2na2" tvg-logo="https://static.ipstr.im/picons/ru/2x2.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",2x2
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/2na2/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="sts-kids-hd" tvg-logo="https://static.ipstr.im/picons/ru/stskids.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",СТС Kids HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/sts-kids-hd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="gulli-girl" tvg-logo="https://static.ipstr.im/picons/ru/gulligirl.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Gulli Girl
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/gulli-girl/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="ginger-hd" tvg-logo="https://static.ipstr.im/picons/ru/kapitan_fantastika.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Капитан Фантастика HD
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/kapitan-fantastika/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="v-gostiax-u-skazki" tvg-logo="https://static.ipstr.im/picons/ru/vgosusk.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",В гостях у сказки
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/vgosuskaz/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="tiji" tvg-logo="https://static.ipstr.im/picons/ru/tiji.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Tiji TV
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/tiji/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="detsky" tvg-logo="https://static.ipstr.im/picons/upl/detsky.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Детский мир
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/detsky/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="mama" tvg-logo="https://static.ipstr.im/picons/ru/mama.png" group-title="Детские" group-logo="https://static.ipstr.im/picons/groups/11.png",Мама
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/mama/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="rossia-24" tvg-logo="https://static.ipstr.im/picons/ru/rossia24.png" group-title="Новости" group-logo="https://static.ipstr.im/picons/groups/9.png",Рoсcия 24
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rossia-24/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="rbk" tvg-logo="https://static.ipstr.im/picons/ru/rbk.png" group-title="Новости" group-logo="https://static.ipstr.im/picons/groups/9.png",РБK
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/rbk/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="dozhd" tvg-logo="https://static.ipstr.im/picons/ru/dozhd.png" group-title="Новости" group-logo="https://static.ipstr.im/picons/groups/9.png",Дождь
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/dozd/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="moskva-24" tvg-logo="https://static.ipstr.im/picons/ru/moskva24.png" group-title="Новости" group-logo="https://static.ipstr.im/picons/groups/9.png",Москва 24
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/moskva-24/video.m3u8
+#EXTINF:-1 catchup-days="2" timeshift="2" tvg-id="euronews" tvg-logo="https://static.ipstr.im/picons/ru/euronews.ru.png" group-title="Новости" group-logo="https://static.ipstr.im/picons/groups/9.png",Euronews
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/euronews/video.m3u8
+#EXTINF:-1 catchup-days="1" timeshift="1" tvg-id="krik-tv" tvg-logo="https://static.ipstr.im/picons/upl/9/krik.png" group-title="Новости" group-logo="https://static.ipstr.im/picons/groups/9.png",Крик-ТВ
+https://o.yablo.tv/live/u.84163.3979a5b0d65c1e0a08afdd875ec6bad088/krik/video.m3u8
